@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Générateur de Slogans IA</title>
+    <link rel="stylesheet" href="./assets/css/style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Générateur de Slogans IA</h1>
+        <p>Entrez le nom de votre produit et laissez la magie opérer !</p>
+
+        <!-- Div qui gère les saisies utilisateurs -->
+        <div class="form-group">
+            <input type="text" id="productName" placeholder="Ex : Chaussures de sport rapides">
+            <button id="generateBtn">Génerer</button>
+        </div>
+
+        <!-- Div qui affiche les resultats -->
+        <div id="result" class="result-container">
+            <div id="loader" class="loader hidden"></div>
+            <p id="sloganOutput"></p>
+        </div>
+    </div>
+    <script src="./assets/js/script.js"></script>
+</body>
+</html>
