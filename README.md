@@ -25,7 +25,7 @@ generateur-slogans/
 └── README.md            # Ce fichier
 ```
 
-## ⚙️ Installation et Lancement
+## Installation et Lancement
 
 Suivez ces étapes pour lancer le projet en local.
 
