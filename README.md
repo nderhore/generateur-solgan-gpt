@@ -37,7 +37,7 @@ Le serveur gère la communication avec l'API OpenAI pour protéger votre clé AP
 1.  **Naviguez vers le dossier serveur :**
 
     ```bash
-    cd generateur-slogans/server
+    cd generateur-solgan-gpt/server
     ```
 
 2.  **Installez les dépendances Node.js :**
