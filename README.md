@@ -6,10 +6,9 @@ C'est un exemple de base pour démontrer comment intégrer une IA générative d
 
 ## Stack Technique
 
-  * **Front-end (Client)**: HTML5, CSS3, JavaScript (avec l'API `fetch`)
-  * **Back-end (Serveur)**: Node.js, Express
+  * **Front-end (Client)**: HTML5, CSS3, JavaScript
+  * **Back-end (Serveur)**: Node.js (24.10), Express
   * **API IA**: OpenAI (modèle `gpt-3.5-turbo`)
-  * **Modules Node clés**: `express`, `openai`, `dotenv`, `cors`
 
 ## Structure du Projet
 
